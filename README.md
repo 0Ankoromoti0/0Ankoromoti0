@@ -6,7 +6,7 @@ I am Ankoromoti !
 Nice to meet you !!
 ## :keyboard: Myskills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,node,discord,bots,figma,github,instagram,twitter,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,discord,bots,figma,github,instagram,twitter,&perline=5)](https://skillicons.dev)
 
 ## :bar_chart:
 
