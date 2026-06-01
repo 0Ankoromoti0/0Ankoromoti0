@@ -2,7 +2,7 @@
 
 <h1>0Ankoromoti0</h1>
 
-<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=700&color=7F1184&center=true&vCenter=true&width=820&lines=Frontend+%2F+Backend+%2F+Automation;JavaScript+and+Node.js+Developer;Building+clean%2C+useful%2C+playful+software;Always+learning.+Always+shipping.">
+<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2400&pause=700&color=7F1184&center=true&vCenter=true&width=820&lines=Students+%2F+nerd+%2F+gamer;JavaScript+and+Node.js+Developer;Building+clean%2C+useful%2C+playful+software;Always+learning.+Always+shipping.">
 
 <br>
 
@@ -23,7 +23,7 @@
 <h2><code>&gt; about</code></h2>
 
 <p>
-  Hi, I'm <strong>Ankoromoti</strong>.<br>
+  Hi, I'm <strong>Ankoromoti / あんころもち</strong>.<br>
   I build software that is simple to use, pleasant to look at, and actually useful.
 </p>
 
