@@ -15,12 +15,6 @@
 
 <h2><code>&gt; contribution snake</code></h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Ankoromoti0/0Ankoromoti0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Ankoromoti0/0Ankoromoti0/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/0Ankoromoti0/0Ankoromoti0/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 <br>
