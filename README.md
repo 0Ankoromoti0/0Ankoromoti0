@@ -11,13 +11,6 @@
 
 <br>
 
-<div align="center">
-
-<h2><code>&gt; contribution snake</code></h2>
-
-</div>
-
-<br>
 
 <div align="center">
 
